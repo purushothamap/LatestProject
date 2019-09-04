@@ -1,0 +1,10 @@
+ Volume in drive F is Kumar Naidu
+ Volume Serial Number is 1252-4EAD
+
+ Directory of F:\GIT\LatestProject
+
+09/04/2019  10:21 PM    <DIR>          .
+09/04/2019  10:21 PM    <DIR>          ..
+09/04/2019  10:21 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  18,836,062,208 bytes free
